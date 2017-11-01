@@ -1,0 +1,16 @@
+{
+    "name": "boofw/mongo-pdo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boofw\\MongoPDO\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boof Wang",
+            "homepage": "http://boof.wang",
+            "email": "i@boof.wang"
+        }
+    ]
+}
