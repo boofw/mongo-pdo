@@ -1,5 +1,6 @@
 {
     "name": "boofw/mongo-pdo",
+    "description": "Use PDO through MongoDB interface",
     "license": "MIT",
     "autoload": {
         "psr-4": {
